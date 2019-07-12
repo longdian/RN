@@ -1,7 +1,8 @@
 ## 介绍
-# 要求的依赖提添加 react-native  react
+# 提供 TextInput、Loading、Toast 组件封装
+# Keyboard 组件 用来判断键盘的高度
 
-> 1、utils 文件  根据设备的分辨率设置像素
+> 1、utils 文件  根据设备的分辨率设置像素  
 > 2、需要调用的组件 直接 import 过来 eg:
 import MyTextInput from '../components/MyTextInput'
 

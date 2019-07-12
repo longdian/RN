@@ -8,7 +8,7 @@ import {
     StyleSheet,
     Keyboard
 } from 'react-native'
-import { scaleSize, setSpText } from './util'
+import { scaleSize, setSpText } from '../utils/util'
 
 export default class MyTextInput extends Component {
     constructor(props) {
